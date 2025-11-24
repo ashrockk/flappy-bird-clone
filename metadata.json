@@ -1,0 +1,5 @@
+{
+  "name": "Copy of Flappy Bird React",
+  "description": "A high-performance, physics-based Flappy Bird clone using React 18, Canvas API, and Web Audio. Features progressive difficulty, local high scores, and smooth 60FPS rendering.",
+  "requestFramePermissions": []
+}
